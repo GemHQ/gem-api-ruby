@@ -822,7 +822,7 @@ def get_transactions(page = nil); end
 #### Example Usage
 
 ```ruby
-page = 183
+page = 130
 
 result = transactions_controller.get_transactions(page)
 
